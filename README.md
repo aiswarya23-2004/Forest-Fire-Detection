@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Forest fire detection By Convolutional Neural Network: 
 
 ![](https://media1.giphy.com/media/QBdoItysjQSlC5IhOZ/giphy.gif?cid=ecf05e47vy9uus6ftpqyiqrskzreedc3jyrjk03ts6qvdht6&rid=giphy.gif&ct=g)
@@ -42,3 +42,4 @@
 # Forest-Fire-Detection
 Deep learning project for detecting forest fires using CNN and transfer learning with InceptionV3.
 >>>>>>> 2882a794e487ee608e7b13c9f79b4807035f0da8
+
